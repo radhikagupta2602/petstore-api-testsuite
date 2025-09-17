@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Petstore API Test Suite" verbose="1">
+    <test name="Pet Tests">
+        <classes>
+            <class name="org.gupta.radhika.petstore.api.testsuite.tests.PetTests"/>
+            <class name="org.gupta.radhika.petstore.api.testsuite.tests.StoreTests"/>
+        </classes>
+    </test>
+</suite>
