@@ -3,6 +3,10 @@
     <test name="Pet Tests">
         <classes>
             <class name="org.gupta.radhika.petstore.api.testsuite.tests.PetTests"/>
+        </classes>
+    </test>
+     <test name="Store Tests">
+        <classes>
             <class name="org.gupta.radhika.petstore.api.testsuite.tests.StoreTests"/>
         </classes>
     </test>
